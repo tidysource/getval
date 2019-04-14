@@ -1,0 +1,24 @@
+{
+  "name": "@tidysource/getval",
+  "version": "1.0.0",
+  "description": "Get form values",
+  "main": "getval.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tidysource/getval.git"
+  },
+  "keywords": [
+    "DOM",
+    "form",
+    "value"
+  ],
+  "author": "TidySource (Daniel Cobo)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tidysource/getval/issues"
+  },
+  "homepage": "https://github.com/tidysource/getval#readme"
+}
